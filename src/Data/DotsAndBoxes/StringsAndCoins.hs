@@ -1,6 +1,6 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 module Data.DotsAndBoxes.StringsAndCoins where
-
+{--
 import Data.DotsAndBoxes.Types
 import Data.Graph.Inductive.Graph
 import Data.Graph.Inductive.PatriciaTree
@@ -93,3 +93,4 @@ chainInfo graph initialNode = explore (match initialNode graph)
           value : rest
 
 
+--}
